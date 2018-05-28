@@ -1,6 +1,5 @@
 # Docker Nginx Web Stack
 
-## Verzije
 - Nginx 1.13
 - MySQL 5.7
 - PHP 7.0 - fpm
